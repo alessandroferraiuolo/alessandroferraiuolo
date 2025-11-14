@@ -21,11 +21,6 @@ Benvenuto nel mio profilo GitHub! Qui condivido progetti, idee e sperimentazioni
 
 ## 🧰 Tech Stack
 
-## 📊 GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandroferraiuolo&show_icons=true&theme=tokyonight&count_private=true)
-
-
----
 
 ## 🌐 Dove trovarmi
 - 💼 LinkedIn: 
