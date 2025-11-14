@@ -15,24 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🚀 Sviluppatore • Creativo • Appassionato di Tecnologia
+### 🚀 Devops Engineer
 Benvenuto nel mio profilo GitHub! Qui condivido progetti, idee e sperimentazioni che rispecchiano la mia curiosità e crescita nel mondo dello sviluppo.
 
----
 
 ## 🧰 Tech Stack
 
-
----
-
-
-
-> *Aggiungi i link ai tuoi repository una volta pronti!*
-
----
-
 ## 📊 GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessandroferraiuolo&show_icons=true&theme=tokyonight&count_private=true)
 
 
 ---
