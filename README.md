@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### 🚀 Devops Engineer
-Benvenuto nel mio profilo GitHub! Qui condivido progetti, idee e sperimentazioni che rispecchiano la mia curiosità e crescita nel mondo dello sviluppo.
 
 
 ## 🧰 Tech Stack
