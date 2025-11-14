@@ -1,5 +1,5 @@
 ## Hi there, I'm Alessandro Ferraiuolo 👋
-
+I am a computer engineer passionate about Cloud technologies andDevOps methodologies, with extensive experience in managing andoptimising IT infrastructures. I have demonstrated excellent skills in coordinating softwaredevelopment and release, as well as in automating processes. I constantly strive to improve my knowledge, promote innovation andcontribute to the success of ambitious projects.
 <!--
 **alessandroferraiuolo/alessandroferraiuolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
